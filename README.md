@@ -1,7 +1,6 @@
 # Corona-Virus-Analysis
-data source: https://bit.ly/3axnxBd
-
 Analysing Corona Virus data using data visualizations on Tableau.
+data source: https://bit.ly/3axnxBd
 
 ## In China
 ### Percentage Recovery 
@@ -15,4 +14,5 @@ Data shows that Hubei has the highest death percentage. States closer to the epi
 We can conclude that:
 - States with greater number of confirmed cases tend to have high death percentage
 - CONVID19 can become deadly if it effects more and more people
+
 ![death recovery](graphics/Death_percentage_analysis_china.PNG.png)
