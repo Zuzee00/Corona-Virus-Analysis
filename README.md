@@ -3,7 +3,7 @@ Analysing Corona Virus data using data visualizations on Tableau.
 
 data source: https://bit.ly/3axnxBd
 
-## In China
+## China
 ### Percentage Recovery 
 Data shows that even states closer to the epicenter of virus origin are recovering quickly but those far away have lower percentages. On further analysis I found out that this behaviour is due to difference in number of people affected.
 - States with high number of confirmed cases tend to have low recovery percentage
@@ -17,3 +17,7 @@ We can conclude that:
 - CONVID19 can become deadly if it effects more and more people
 
 ![death recovery](graphics/Death_percentage_analysis_china.PNG.png)
+
+## Australia
+
+![Australia Analysis](graphics/Australia%20Analysis.png)
