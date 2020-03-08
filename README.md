@@ -19,5 +19,12 @@ We can conclude that:
 ![death recovery](graphics/Death_percentage_analysis_china.PNG.png)
 
 ## Australia
+Following visualization shows that:
+- Queensland has the most confirmed cases (159)
+- Western Australia has the least confirmed cases (6)
+- New South Wales has the highest recovery percentage (70.27%) while having the second most number of confirmed cases (148)
+- Western Australia has the highest death rate (33.33%). But this could be misleading and can create panic among masses if someone only presents the death percentage because the number of confirmed cases in Western Australia is the lowest (6) while the other parts of Australia are more effected by CONVID19 yet nobody died there due to virus. 
+
+The point I am trying to make that people can misguide you with visualization even having credible data. so please before panicking just dig in a little and find some context to the provided visualization and you'll find out how you have been misguided. 
 
 ![Australia Analysis](graphics/Australia%20Analysis.png)
