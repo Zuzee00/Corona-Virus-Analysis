@@ -1,6 +1,7 @@
 # Corona-Virus-Analysis
-Analysing Corona Virus data using data visualizations on Tableau.
 
+Analysing a novel (new) coronavirus that was first detected in China and which has now been detected in almost 90 locations internationally, including in the United States. The virus has been named “SARS-CoV-2” and the disease it causes has been named “coronavirus disease 2019” (abbreviated “COVID-19”).
+ 
 data source: https://bit.ly/3axnxBd
 
 ## China
